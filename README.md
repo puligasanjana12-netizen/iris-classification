@@ -11,7 +11,5 @@ This project uses Machine Learning to classify iris flowers into:
 - Pandas
 - Matplotlib
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python iris_model.py
+## 👉 Short Description:
+- The Iris Flower Classification project is a machine learning application that predicts the species of iris flowers based on their sepal and petal measurements. It uses the K-Nearest Neighbors (KNN) algorithm and the built-in Iris dataset from Scikit-learn.
